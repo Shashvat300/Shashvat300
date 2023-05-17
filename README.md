@@ -1,3 +1,6 @@
+![68747470733a2f2f696d672e6672656570696b2e636f6d2f667265652d766563746f722f7465656e616765722d626f792d626564726f6f6d2d696e746572696f722d636f6d7075746572732d6465736b5f3130373739312d323733382e6a70673f773d3133383026743d73743d31363731](https://github.com/Shashvat300/SystemVerilog/assets/103407023/fdbba980-6831-46ad-8658-3c21ff51dd7b)
+
+
 <h1 align="center">Hi 👋, I'm Shashvat Maurya</h1>
 <h3 align="center">A passionate VlSI developer from India</h3>
 <img align="right" alt="coading" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
